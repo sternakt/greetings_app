@@ -1,6 +1,3 @@
-import asyncio
-import random
-
 from faststream import FastStream, Logger
 from faststream.kafka import KafkaBroker
 from pydantic import BaseModel, Field
